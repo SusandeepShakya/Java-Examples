@@ -23,6 +23,7 @@ public class LinearSearch {
             {
                 System.out.println(search + " is present at location " + (c + 1) + ".");
                 break;
+
             }
         }
         if (c == n)  /* Element to search isn't present */

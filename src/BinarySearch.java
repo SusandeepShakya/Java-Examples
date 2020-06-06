@@ -8,6 +8,7 @@ public class BinarySearch {
                 System.out.println("Element is found at index: " + mid);
                 break;
             }else{
+
                 last = mid - 1;
             }
             mid = (first + last)/2;
